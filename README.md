@@ -10,7 +10,9 @@ I'm a software developer in Vancouver, B.C. ⛰ I like to code  but I also like 
 
 #### Languages and Tools:
 <p>
-  <img src="https://github.com/quicklikerabbit/quicklikerabbit/blob/master/vscode.png" alt="VS Code" height="50"/>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://github.com/quicklikerabbit/quicklikerabbit/blob/master/vscode.png" alt="VS Code" height="50"/>
+  </a>
   <img src="https://github.com/quicklikerabbit/quicklikerabbit/blob/master/git.png" alt="Git" height="50"/>
   <img src="https://github.com/quicklikerabbit/quicklikerabbit/blob/master/js.png" alt="JavaScript" height="50"/>
   <img src="https://github.com/quicklikerabbit/quicklikerabbit/blob/master/typescript.png" alt="Typescript" height="50"/>
