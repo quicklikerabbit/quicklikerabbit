@@ -8,7 +8,7 @@ I'm a software developer in Vancouver, B.C. ⛰ I like to code  but I also like 
 - 💬 Ask me about [OpenLayers](https://github.com/openlayers/openlayers)🌎   or [Angular](https://github.com/angular/angular).
 - 📫 Email me at [steve@syncline.ca](mailto:steve@syncline.ca) or hit me up on Twitter [@quicklikerabbit](https://twitter.com/quicklikerabbit) 🦜 or [LinkedIn](https://www.linkedin.com/in/sdrpengmeng/) 💼
 
-#### Languages and Tools: 
+<!-- #### Languages and Tools: 
 <img src="vscode.png" alt="VS Code" height="50"/>
 <img src="js.png" alt="JavaScript" height="50"/>
 <img src="angular.png" alt="Angular" height="50"/>
@@ -29,4 +29,4 @@ I'm a software developer in Vancouver, B.C. ⛰ I like to code  but I also like 
 <img src="aws.png" alt="Amazon Web Services" height="50"/>
 <img src="heroku.png" alt="Amazon Web Services" height="50"/>
 <img src="git.png" alt="Git" height="50"/>
-<img src="sql.png" alt="SQL" height="50"/>
+<img src="sql.png" alt="SQL" height="50"/> -->
