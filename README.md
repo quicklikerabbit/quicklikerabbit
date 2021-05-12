@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Steve
 
-I'm a software developer in Vancouver, B.C. ⛰ I like to code  but I also like candy 🍬
+I'm a software engineer in Vancouver, B.C. ⛰ I like to code  but I also like candy 🍬
 
 - 🔭 I’m currently working at [MDA](https://www.mdacorporation.com/) on the [Triton](https://www.prnewswire.com/news-releases/mda-to-provide-maritime-command-and-control-solution-to-nato-665650633.html) Project 🛥. 
 - 🌱 I’m currently taking Wes Boss' [Beginner Javascript](https://github.com/quicklikerabbit/beginner-javascript) course to brush up on my fundamentals. 
