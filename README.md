@@ -2,7 +2,7 @@
 
 I'm a software engineer in Victoria, B.C. ⛰ I like to code but I also like candy 🍬
 
-- 👨‍💻 I’m currently working at [Qube Technologies](https://www.qubeiot.com) on our [emmisions dashboard](https://youtu.be/ZMrm_jjsc_k) 🖥️. 
+- 👨‍💻 I’m the Lead UI Developer at [Qube Technologies](https://www.qubeiot.com) on our [emmisions dashboard](https://youtu.be/ZMrm_jjsc_k) 🖥️. 
 - 💬 Ask me about [OpenLayers](https://github.com/openlayers/openlayers)🌎, [Angular](https://github.com/angular/angular), [React](https://github.com/facebook/react) or [Visx](https://github.com/airbnb/visx) 📈.
 - You can also find me on [LinkedIn](https://www.linkedin.com/in/sdrpengmeng/) 💼
 
