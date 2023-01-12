@@ -2,11 +2,9 @@
 
 I'm a software engineer in Vancouver, B.C. ⛰ I like to code  but I also like candy 🍬
 
-- 🔭 I’m currently working at [MDA](https://www.mdacorporation.com/) on the [Triton](https://www.prnewswire.com/news-releases/mda-to-provide-maritime-command-and-control-solution-to-nato-665650633.html) Project 🛥. 
-- 🌱 I’m currently taking Wes Boss' [Beginner Javascript](https://github.com/quicklikerabbit/beginner-javascript) course to brush up on my fundamentals. 
-- 🌱 I’m also doing a [Python course](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) with Udacity. 
-- 💬 Ask me about [OpenLayers](https://github.com/openlayers/openlayers)🌎   or [Angular](https://github.com/angular/angular).
-- You can find me on Twitter [@quicklikerabbit](https://twitter.com/quicklikerabbit) 🦜 and [LinkedIn](https://www.linkedin.com/in/sdrpengmeng/) 💼
+- 👨‍💻 I’m currently working at [Qube Technologies](https://www.qubeiot.com) on our [emmisions dashboard](https://youtu.be/ZMrm_jjsc_k) 🖥️. 
+- 💬 Ask me about [OpenLayers](https://github.com/openlayers/openlayers)🌎, [Angular](https://github.com/angular/angular), [React](https://github.com/facebook/react) or [Visx](https://github.com/airbnb/visx) 📈.
+- You can also find me on [LinkedIn](https://www.linkedin.com/in/sdrpengmeng/) 💼
 
 #### Languages and Tools:
 <p>
